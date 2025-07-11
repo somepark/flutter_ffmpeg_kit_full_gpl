@@ -1,3 +1,6 @@
+# flutter_ffmpeg_kit_full_gpl
+flutter 版本的ffmpeg，满足android和iOS 视频裁剪需求
+
 # FFmpegKit for Flutter
 
 ### 1. Features
@@ -333,3 +336,4 @@ See [License](https://github.com/arthenica/ffmpeg-kit/wiki/License) wiki page.
 ### 7. Patents
 
 See [Patents](https://github.com/arthenica/ffmpeg-kit/wiki/Patents) wiki page.
+

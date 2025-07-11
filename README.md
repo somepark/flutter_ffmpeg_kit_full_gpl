@@ -1,0 +1,2 @@
+# flutter_ffmpeg_kit_full_gpl
+flutter 版本的ffmpeg，满足android和iOS 视频裁剪需求
